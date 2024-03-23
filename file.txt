@@ -1,3 +1,5 @@
 Time to lead
-aws Cloud monk
+<<<<<<< HEAD
+devops ruling 
+>>>>>>> qa
 
